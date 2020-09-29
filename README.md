@@ -2,6 +2,8 @@
 
 Welcome to Digitalsterne Site Tag, **the** automated tracking extension for Google Analytics. Did you ever wonder which links and elements on your site are frequently used and which not? Well, take a seat and enjoy our out of the box soloution.
 
+This repository includes the premium version of our tag. Yout can find the free version of our tag <a href="https://github.com/Digitalsterne-GmbH/Digitalsterne-Site-Tag">here</a>.
+
 ------------
 
 ### Features
@@ -24,15 +26,17 @@ Welcome to Digitalsterne Site Tag, **the** automated tracking extension for Goog
 | **SEO: Largest Contentful Paint** |      |    ✅    |
 | **SEO: First Input Delay**        |      |    ✅    |
 | **SEO: Cummulative Layout Shift** |      |    ✅    |
+| **Digitalsterne Auto Redirect**   |      |    ✅    |
 | **Digitalsterne Reading AI**      |      |    ✅    |
 
 We also provide a permium version of this tag which includes fantastic features like SEO KPI Tracking or the Digitalsterne Reading AI module to evaluate the users engagement. This allows you to create audiences or goals when a user is reading the content on your page. For further informations get in touch with us:
 
-<a href="https://www.digitalsterne.de?utm_source=github.com&utm_campaign=sitetagfree">www.digitalsterne.de</a>
+<a href="https://www.digitalsterne.de?utm_source=github.com&utm_campaign=sitetagpremium">www.digitalsterne.de</a>
 
 ### Requirements
 
 - Google Analytics
+- Digitalsterne Site Tag License
 
 ### Installation
 
@@ -43,6 +47,10 @@ We also provide a permium version of this tag which includes fantastic features 
 5. Hit the "Save" Button in the upper right corner
 
 The Digitalsterne Site Tag is multi-property ready, so you can enter multiple target properties.
+
+### License
+
+To use this tag you need a valid Digitalsterne Site Tag License. You can get your license by contacting us via <a href="https://www.digitalsterne.de?utm_source=github.com&utm_campaign=sitetagpremium">www.digitalsterne.de</a>
 
 ### Debugging
 
