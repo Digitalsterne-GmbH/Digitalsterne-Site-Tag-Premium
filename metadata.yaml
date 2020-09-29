@@ -1,5 +1,5 @@
 homepage: "https://www.digitalsterne.de"
-documentation: "https://wiki.digitalsternemarketing.de"
+documentation: "https://github.com/Digitalsterne-GmbH/Digitalsterne-Site-Tag-Premium/blob/main/README.md"
 versions:
   - sha: f3438f2cd9920d7d7e2a2b0449bfd01d81f95467
     changeNotes: Initial release.
