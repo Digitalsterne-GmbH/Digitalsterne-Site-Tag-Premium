@@ -1,5 +1,5 @@
 homepage: "https://www.digitalsterne.de"
 documentation: "https://wiki.digitalsternemarketing.de"
 versions:
-  - sha: 73b3e38f41121651ed8a4cd3fd71e45a0207c9da
+  - sha: ef092975cde9dee863402e9e5baeb7f5d1f1654d
     changeNotes: Initial release.
