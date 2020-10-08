@@ -2,6 +2,4 @@ homepage: "https://www.digitalsterne.de"
 documentation: "https://github.com/Digitalsterne-GmbH/Digitalsterne-Site-Tag-Premium/blob/main/README.md"
 versions:
   - sha: 6963e86e130e1d7d6760c3535b91a531974870c2
-    changeNotes: Added support for server side tracking.
-  - sha: a70648cb3a53f97a31bf81f609d4a742132a3554
-    changeNotes: Initial release.
+    changeNotes: 08/10/2020: Added support for server side tracking.
