@@ -3,3 +3,5 @@ documentation: "https://github.com/Digitalsterne-GmbH/Digitalsterne-Site-Tag-Pre
 versions:
   - sha: 6963e86e130e1d7d6760c3535b91a531974870c2
     changeNotes: Added support for server side tracking.
+  - sha: 99ec86244962ad7df4b5c32c4b5ce3a0631d84b6
+    changeNotes: Added support for ga function renaming.
